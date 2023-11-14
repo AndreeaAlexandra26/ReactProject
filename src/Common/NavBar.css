@@ -1,0 +1,43 @@
+
+    
+
+  .nav-guest {
+    display: flex;
+margin: auto;
+ justify-content: space-between;
+    align-items: center;
+    background:linear-gradient(to right, #77f29d,rgb(6, 244, 30));
+    z-index: 1;
+  }
+
+
+  .nav-admin {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background:linear-gradient(to right, #6f7270,rgb(6, 244, 30));
+    z-index: 1;
+  }
+
+  .nav-user {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background:linear-gradient(to right, #9fe430,rgb(6, 244, 30));
+    z-index: 1;
+  }
+  
+  .Logo {
+    padding: 6px;
+  }
+  
+  .ContainerName{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+ 
+  
+  
+  
